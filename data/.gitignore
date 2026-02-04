@@ -1,0 +1,11 @@
+**/*.pt
+**/*.txt
+
+!ChEBI-20_data/
+!ChEBI-20_data/*.txt
+
+!PubChem324k/
+!PubChem324k/*.txt
+
+!kv_data/
+!kv_data/*.txt
